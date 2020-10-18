@@ -25,6 +25,7 @@ But you can easily install them from the terminal (after activating your virtual
 `pip3 install -r ./rock-recognition/requirements.txt`  
 
 To reduce the size of the project there's a Data.zip to train and test the AI with all the pictures, must be unzipped as `/rock-recognition/data` before running the code.
+You can download it [here.](https://nasadata.blob.core.windows.net/nasarocks/Data.zip)
 
 ***
 
