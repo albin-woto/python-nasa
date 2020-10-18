@@ -145,3 +145,4 @@ cython_debug/
 
 # Ignore /data for less size, before running unzip Data.zip in data/
 /rock-recognition/data
+/rock-recognition/Data.zip
